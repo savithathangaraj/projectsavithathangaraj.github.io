@@ -6,5 +6,5 @@
 .bar{
 	transform: flexbox;
 	flex-wrap:right;
-	width:100%;
+	width:80;
 }

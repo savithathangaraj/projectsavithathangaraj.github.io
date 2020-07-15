@@ -1,3 +1,10 @@
-h1{
-	background-color: orange;
+*{
+	margin:0;
+	padding: 0;
+}
+
+.bar{
+	transform: flexbox;
+	flex-wrap:right;
+	width:100%;
 }
